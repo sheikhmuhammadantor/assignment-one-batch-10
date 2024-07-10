@@ -50,6 +50,7 @@ body {
     padding: 12px 15px;
     border: 1px solid #0d1321;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 /* Header Section End Here */
@@ -89,6 +90,7 @@ body {
 
 .banner-text {
     color: #0d1321;
+    opacity: 0.7;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
