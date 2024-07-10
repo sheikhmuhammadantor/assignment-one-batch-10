@@ -15,9 +15,13 @@ body {
 
 /* Header Section Start Here */
 .header-section {
-    width: 1440px;
-    height: 90px;
     background-color: rgba(30, 30, 30, 0.05);
+    margin: auto;
+}
+
+.header-section-content {
+    width: 1400px;
+    height: 90px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -55,7 +59,7 @@ body {
 .banner-section {
     text-align: center;
     width: 100%;
-    margin: 25px auto;
+    margin: 0 auto 25px;
     height: 652px;
     background-image: url('./assets/hero-bg.png');
 }
@@ -63,7 +67,7 @@ body {
 .banner-section-container {
     width: 998px;
     height: 582px;
-    margin: 26px auto 44px;
+    margin: 0 auto 44px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
