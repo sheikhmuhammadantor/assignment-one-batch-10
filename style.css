@@ -369,8 +369,11 @@ body {
 
 .support-feedback-input {
     border: transparent;
+    color: black;
     width: 600px;
     height: 60px;
+    font-size: 18px;
+    padding-left: 25px;
     border-radius: 10px;
     background: #fff;
 }
