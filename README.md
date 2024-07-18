@@ -1,2 +1,2 @@
 
-## [For Live Preview](https://sheikhmuhammadantor.github.io/assignment-one-ph-batch-10/)
+## [For Live Preview](https://sheikhmuhammadantor.github.io/assignment-one-batch-10-ph/)
